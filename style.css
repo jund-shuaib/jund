@@ -1,0 +1,26 @@
+.yusra{
+    height: 800px;
+    width: 100%;
+    background: linear-gradient(rgba(9, 9, 205, 0.3), rgba(0, 0, 0, 0.4), rgba(101, 18, 18, 0.5)), url('images/vecteezy_ai-information-service-management-person-holds-global-to_49045809.jpg');
+    background-size: cover;
+}
+.demon{
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
+.look{
+    margin-bottom: 300px;
+}
+.seevi{
+    font-size: 25px;
+}
+.lobe{
+    font-size: 30px;
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 200px;
+}
+#sudo{
+    margin-left: 600px;
+    margin-top: 100px;
+}
